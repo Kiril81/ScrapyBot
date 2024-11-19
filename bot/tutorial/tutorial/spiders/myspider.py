@@ -4,7 +4,7 @@ import scrapy
 
 
 class QuotesSpider(scrapy.Spider):
-    name = "quotes"
+    name = "daswerk"
 
     def start_requests(self):
         urls = [
@@ -21,9 +21,12 @@ class QuotesSpider(scrapy.Spider):
         # Extract all <h2> elements
         h2_elements = response.css('h2::text').getall()
 
+        #combined_links_and_headings = [{'link': a_elements, 'heading': h2_elements} for a_elements, h2_elements in zip(a_elements, h2_elements)]
+
         # Store all extracted elements in a single dictionary
         yield {
             'text': li_elements,
-            'links': a_elements,
-            'headings': h2_elements
+            'link_heading': a_elements,
+            'text2': h2_elements,
+
          }
