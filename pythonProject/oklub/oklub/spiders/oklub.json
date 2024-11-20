@@ -1,0 +1,96 @@
+[
+{
+    "events": [
+        {
+            "day": "19",
+            "month": "SEPT",
+            "event_name": "Büro-schluss",
+            "link": "https://o-klub.at/event-type/youando/"
+        },
+        {
+            "day": "20",
+            "month": "SEPT",
+            "event_name": "TANZ IN DEN HERBST",
+            "link": "https://o-klub.at/event-type/superdisco/"
+        },
+        {
+            "day": "21",
+            "month": "SEPT",
+            "event_name": "Super Disco",
+            "link": "https://o-klub.at/event-type/oz/"
+        },
+        {
+            "day": "27",
+            "month": "SEPT",
+            "event_name": "HYPE! SEASON OPENING",
+            "link": "https://o-klub.at/event-type/hype/"
+        },
+        {
+            "day": "28",
+            "month": "SEPT",
+            "event_name": "Super Disco",
+            "link": "https://o-klub.at/event-type/glitz/"
+        },
+        {
+            "day": "03",
+            "month": "OCT",
+            "event_name": "Solid Gold OPENING 30+",
+            "link": "https://o-klub.at/events/buroschluss-4/"
+        },
+        {
+            "day": "04",
+            "month": "OCT",
+            "event_name": "LEN FAKI",
+            "link": "https://o-klub.at/events/tanz-in-den-herbst-2/"
+        },
+        {
+            "day": "5",
+            "month": "OCT",
+            "event_name": "Super Disco",
+            "link": "https://o-klub.at/events/super-disco-2/"
+        },
+        {
+            "day": "11",
+            "month": "OCT",
+            "event_name": "GLITZ 2 YEAR ANNIVERSARY",
+            "link": "https://o-klub.at/events/hype-1/"
+        },
+        {
+            "day": "12",
+            "month": "OCT",
+            "event_name": "Super Disco",
+            "link": "https://o-klub.at/events/super-disco-3/"
+        },
+        {
+            "day": "18",
+            "month": "OCT",
+            "event_name": "ELI BROWN",
+            "link": "https://o-klub.at/events/solid-gold/"
+        },
+        {
+            "day": "31",
+            "month": "OCT",
+            "event_name": "Halloween",
+            "link": "https://o-klub.at/events/len-faki-3/"
+        },
+        {
+            "day": "15",
+            "month": "NOV",
+            "event_name": "GLITZ",
+            "link": "https://o-klub.at/events/super-disco-4/"
+        },
+        {
+            "day": "05",
+            "month": "DEZ",
+            "event_name": "GLITZ",
+            "link": "https://o-klub.at/events/glitz-1/"
+        },
+        {
+            "day": "17",
+            "month": "JAN",
+            "event_name": "GLITZ",
+            "link": "https://o-klub.at/events/super-disco-5/"
+        }
+    ]
+}
+]
